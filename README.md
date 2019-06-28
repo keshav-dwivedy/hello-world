@@ -1,5 +1,7 @@
 # hello-world
 
-COW- MOO
-DOG- GRR
-WE- HULLO
+COW-MOO
+
+DOG-GRR
+
+WE-HULLO
